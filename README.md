@@ -7,7 +7,7 @@ This repository provides resources and examples for understanding and implementi
 Clone the repository to your local machine:
 
 ```bash
-git clone
+git clone https://github.com/ManaanAnsari/solidity-metamorphic-contracts-example.git
 
 ```
 
